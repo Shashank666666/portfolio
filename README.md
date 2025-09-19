@@ -128,7 +128,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: [shashank060620006@gmail.com](mailto:shashank060620006@gmail.com)
-- **Phone**: +91 9043210672
+- **Phone**: Available upon request
 - **GitHub**: [@Shashank666666](https://github.com/Shashank666666)
 - **LinkedIn**: [Shashank A](https://www.linkedin.com/in/shashank-a-232755370)
 - **Location**: Chennai, Tamil Nadu, India
